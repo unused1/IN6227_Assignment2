@@ -1,6 +1,6 @@
 # Project Title
 
-IN6227 Assignment2 uses a dataset downloaded from Kaggle. Two types of association rules algorithm - Apriori based on mlxtend python library and brute force python implementation taking reference from GitHub (https://github.com/Jaini-Bhavsar/Data-Mining), are applied and compared by analysing the time required for execution as the performance metric.
+IN6227 Assignment2 uses a dataset downloaded from Kaggle (https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset/). Two types of association rules algorithm - Apriori based on mlxtend python library and brute force python implementation taking reference from GitHub (https://github.com/Dhruvish97/Brute-Force-Rule-Mining), are applied and compared by analysing the time required for execution as the performance metric.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Not applicable as this is an assignment.
 
 ## License
 
-Not applicable as this is for assignment.
+Dataset from Kaggle https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset/ is under GPL2 license.
 
 ## Contact
 
