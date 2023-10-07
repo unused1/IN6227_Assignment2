@@ -16,6 +16,7 @@ IN6227 Assignment2 uses a dataset downloaded from Kaggle (https://www.kaggle.com
 
 Installation is not required but you will need to have a tool to run Jupyter notebooks.
 Download the entire project folder and open main.ipynb file. The dataset files are saved in dataset folder within this project folder.
+Plots and data of results are saved in results folder.
 Python version used is 3.11.5. Required python packages can be found in requirements.txt file.
 
 ## Usage
